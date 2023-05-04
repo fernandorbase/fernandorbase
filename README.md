@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirnandddd" alt="pirnandddd" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 Some of my projects are available at [youtube.com/@fernandangeloorbase](youtube.com/@fernandangeloorbase)
 
