@@ -5,12 +5,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=fernandorbase&row=1&column=7"></a>
 </div>
 
-|Get to know me:|
-|------------------|
-| 🌱 I’m currently learning **Angular**|
-| 👨‍💻 Some of my projects are available at [youtube.com/@fernandangeloorbase](youtube.com/@fernandangeloorbase) | 
-| 📫 Reach me through **fernandangeloorbase@gmail.com** | 
-| ⚡ Fun fact: **I touch grass 🌾** | 
+</br>  
+
+<div align="center">
+  
+|     Get to know me:    |   
+|--------------------------|
+|    🌱 I’m currently learning **ANGULAR**                     |
+|    👨‍💻 Noob projects here at [youtube.com/@fernandangeloorbase](youtube.com/@fernandangeloorbase) |
+|    🌱 📫 Reach me through fernandangeloorbase@gmail.com      |
+|    ⚡ Fun fact: **I TOUCH GRASS** 🌾                         |
+  
+  </div> 
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
