@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer && student leader && gamer from the Philippines</h3>
 
 <div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=fernandorbase" width="800px"></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=fernandorbase&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=fernandorbase" width="800px"></a>
 </div>
 
 - 🌱 I’m currently learning **Angular**
