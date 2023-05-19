@@ -3,6 +3,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fernandorbase)](https://github-profile-trophy.vercel.app/?username=fernandorbase&theme=gruvbox)
 
+https://github-profile-trophy.vercel.app/?username=fernandorbase&row=2&column=3
+
 - 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 Some of my projects are available at [youtube.com/@fernandangeloorbase](youtube.com/@fernandangeloorbase)
