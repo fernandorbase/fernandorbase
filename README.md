@@ -1,7 +1,9 @@
 <h1 align="center">Hello, Beautiful World 🌎 ! I'm FERNAND!</h1>
 <h3 align="center">A passionate frontend developer && student leader && gamer from the Philippines</h3>
 
-<a href="https://github.com/fernandorbase/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandorbase" width="800px"></a>
+<div align="center">
+  <a href="https://github.com/fernandorbase/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandorbase" width="800px"></a>
+</div>
 
 - 🌱 I’m currently learning **Angular**
 
