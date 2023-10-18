@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Beautiful World 🌎 ! I'm FERNAND!</h1>
-<h3 align="center">A passionate software developer && student leader && gamer from the Philippines</h3>
+<h3 align="center">An aspiring innovator && plantito && gamer && life-long learner from the Philippines</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fernandorbase&row=1&column=7"></a>
