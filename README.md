@@ -11,7 +11,7 @@
   
 |     Get to know me:    |   
 |--------------------------|
-|    🌱 I’m currently learning **ANGULAR**                     |
+|    🌱 I’m currently learning **BACKEND DEVELOPMENT**                     |
 |    👨‍💻 Noob projects here at [youtube.com/@fernandangeloorbase](youtube.com/@fernandangeloorbase) |
 |    📫 Reach me through fernandangeloorbase@gmail.com         |
 |    ⚡ Fun fact: **I TOUCH GRASS** 🌾                         |
