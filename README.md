@@ -38,7 +38,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <!-- Sample Tools Icons -->
+  <!-- Tools Icons -->
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -47,7 +47,17 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <!-- Add more as needed -->
+  <!-- Adobe Creative Suite -->
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+  
+  <!-- Google Cloud Platform -->
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  <!-- Google Workspace -->
+  <img src="https://www.vectorlogo.zone/logos/google_drive/google_workspace-icon.svg" alt="Google Workspace" width="40" height="40"/>  
+  <!-- Microsoft 365 -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="Microsoft 365" width="40" height="40"/>
 </p>
 
 ---
