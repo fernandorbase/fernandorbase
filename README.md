@@ -60,9 +60,6 @@
   <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/m365_48x1.svg" alt="Microsoft 365" width="40" height="40"/>
   <!-- Google Cloud -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google CLoud" width="40" height="40"/>
-  <!-- Google Workspace -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Google_Workspace_Logo.svg/768px-Google_Workspace_Logo.svg.png" alt="Google Workspace" height="40"/>  
-
 </p>
 
 ---
