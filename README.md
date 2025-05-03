@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Beautiful World 🌎 I'm Fernand!</h1>
+<h1 align="center">Hello, Wonderful World 🌎 I'm Fernand!</h1>
 <h3 align="center">Aspiring Startup CEO · Gamer · Gardener · Lifelong Learner from the Philippines 🇵🇭</h3>
 
 ---
@@ -6,9 +6,9 @@
 ### 🌟 About Me
 <div align="center">
 
-| 🔍 | **Currently Exploring** | Google Cloud Platform & System Design |
+| 🔍 | **Currently Exploring** | Google Cloud Platform |
 |---|-------------------------|--------------------------------------|
-| 💻 | **Projects on YouTube** | [youtube.com/@fernandangeloorbase](https://youtube.com/@fernandangeloorbase) |
+| 💻 | **Projects** | [youtube.com/@fernandangeloorbase](https://youtube.com/@fernandangeloorbase) |
 | 📬 | **Let's Connect**       | fernandangeloorbase@gmail.com       |
 | 🍃 | **Fun Fact**            | I Touch Grass 🌾                    |
 
