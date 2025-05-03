@@ -1,84 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Fernand's Profile</title>
-  <style>
-    h1, h3 {
-      text-align: center;
-      font-family: Arial, sans-serif;
-    }
-
-    #animated-text {
-      transition: opacity 1s ease-in-out;
-      opacity: 1;
-    }
-
-    .fade-out {
-      opacity: 0;
-    }
-
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-
-    table {
-      margin: auto;
-    }
-
-    hr {
-      margin: 2em 0;
-    }
-
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-  </style>
-</head>
-<body>
-
 <h1 align="center">Hello, Wonderful World 🌎 I'm Fernand!</h1>
-<h3 id="animated-text">Future CEO</h3>
 
-<script>
-  const phrases = [
-    "Future CEO",
-    "Cloud Chaser",
-    "Content Creator",
-    "Lifelong Learner from the Philippines 🇵🇭"
-  ];
+<h3 align="center">
+  <em>Aspiring Startup CEO</em><br>
+  <em>Cloud Chaser</em><br>
+  <em>Content Creator</em><br>
+  <em>Lifelong Learner from the Philippines 🇵🇭</em>
+</h3>
 
-  const textElement = document.getElementById("animated-text");
-  let index = 0;
+---
 
-  setInterval(() => {
-    textElement.classList.add("fade-out");
-    setTimeout(() => {
-      index = (index + 1) % phrases.length;
-      textElement.textContent = phrases[index];
-      textElement.classList.remove("fade-out");
-    }, 1000);
-  }, 3000);
-</script>
-
-<hr>
-
-<h3>🌟 About Me</h3>
+### 🌟 About Me
 <div align="center">
-  <table>
-    <tr><td>🔍</td><td><strong>Currently Exploring</strong></td><td>Google Cloud Platform</td></tr>
-    <tr><td>💻</td><td><strong>Projects</strong></td><td><a href="https://youtube.com/@fernandangeloorbase">youtube.com/@fernandangeloorbase</a></td></tr>
-    <tr><td>📬</td><td><strong>Let's Connect</strong></td><td>fernandangeloorbase@gmail.com</td></tr>
-    <tr><td>🍃</td><td><strong>Fun Fact</strong></td><td>I Touch Grass 🌾</td></tr>
-  </table>
+
+| 🔍 | **Currently Exploring** | Google Cloud Platform |
+|---|-------------------------|--------------------------------------|
+| 💻 | **Projects** | [youtube.com/@fernandangeloorbase](https://youtube.com/@fernandangeloorbase) |
+| 📬 | **Let's Connect**       | fernandangeloorbase@gmail.com       |
+| 🍃 | **Fun Fact**            | I Touch Grass 🌾                    |
+
 </div>
 
-<hr>
+---
 
-<h3>📱 Connect with Me</h3>
+### 📱 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/fernand-angelo-orbase-026015203/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -97,9 +42,10 @@
   </a>
 </p>
 
-<hr>
+---
 
-<h3>🛠️ Skills & Tools</h3>
+### 🛠️ Skills & Tools
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -116,9 +62,10 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
 
-<hr>
+---
 
-<h3>📊 GitHub Insights</h3>
+### 📊 GitHub Insights
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/fernandorbase/fernand-orbase/master/profile-summary-card-output/vue/0-profile-details.svg"/>
   <img src="https://raw.githubusercontent.com/fernandorbase/fernand-orbase/master/profile-summary-card-output/vue/1-repos-per-language.svg"/>
@@ -127,11 +74,8 @@
   <img src="https://raw.githubusercontent.com/fernandorbase/fernand-orbase/master/profile-summary-card-output/vue/4-productive-time.svg"/>
 </div>
 
-<hr>
+---
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=fernandorbase&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-</body>
-</html>
