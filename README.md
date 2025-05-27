@@ -1,10 +1,7 @@
 <h1 align="center">Hello, Wonderful World 🌎 I'm Fernand!</h1>
 
 <h3 align="center">
-  <em>Future CEO</em><br>
-  <em>Cloud Chaser</em><br>
-  <em>Content Creator</em><br>
-  <em>Lifelong Learner from the Philippines 🇵🇭</em>
+  ![About Me]('assets/about-me.gif')
 </h3>
 
 ---
