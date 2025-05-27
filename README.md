@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Wonderful World 🌎 I'm Fernand!</h1>
 
 <h3 align="center">
-  ![About Me][(https://github.com/fernandorbase/fernandorbase/blob/main/assets/about-me.gif)
+  ![About Me](https://github.com/fernandorbase/fernandorbase/blob/main/assets/about-me.gif)
 </h3>
 
 ---
