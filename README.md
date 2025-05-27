@@ -28,7 +28,7 @@
   <a href="https://facebook.com/FERNANDonYT" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://tiktok.com/FERNANDonYT" target="_blank">
+  <a href="https://tiktok.com/fernand.on.yt" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" alt="TikTok" height="30" width="40" />
   </a>
   <a href="https://instagram.com/fernand.on.yt" target="_blank">
