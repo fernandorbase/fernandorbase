@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Wonderful World 🌎 I'm Fernand!</h1>
 
 <h3 align="center">
-  ![About Me]('assets/about-me.gif')
+  ![About Me](assets/about-me.gif)
 </h3>
 
 ---
