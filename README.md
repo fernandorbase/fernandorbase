@@ -51,16 +51,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="Adobe Creative Cloud" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40"/>
-  <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/m365_48x1.svg" alt="Microsoft 365" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBft2UUnBGYpomEO8CUaA7d1i_OUSbsp7Iw&s" alt="Google App Sheet" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
   <img src="https://i.logos-download.com/114435/32685-s1280-703a6749304400b22efec4dbcabe6fbb.avif/Google_Antigravity_Logo_2025_icon-s1280.avif" alt="Google Antigravity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/geminicli-color.png" alt="Gemini CLI" width="40" height="40"/>
   <img src="https://nikiforovall.blog/claude-code-rules/img/cc.png" alt="Claude" width="40" height="40"/>
-</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1280px-Google_Apps_Script.svg.png" alt="Google Apps Script" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFBft2UUnBGYpomEO8CUaA7d1i_OUSbsp7Iw&s" alt="Google App Sheet" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" alt="Adobe Creative Cloud" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40"/>
+  <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/m365_48x1.svg" alt="Microsoft 365" width="40" height="40"/>
 </p>
 
 ---
