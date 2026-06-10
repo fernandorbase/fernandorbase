@@ -55,7 +55,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40"/>
   <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/m365_48x1.svg" alt="Microsoft 365" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/><br>
-   <img src="https://commons.wikimedia.org/wiki/File:Google_Antigravity_Logo.svg#/media/File:Google_Antigravity_Logo.svg" alt="Google Antigravity" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Google_Antigravity_Logo.svg" alt="Google Antigravity" height="40"/>
 </p>
 
 ---
