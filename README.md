@@ -11,7 +11,7 @@
 
 | 🔍 | **Currently Exploring** | Gooogle Antigravity |
 |---|-------------------------|--------------------------------------|
-| 💻 | **Projects and Fun Stuff** | [youtube.com/@fernandangeloorbase](https://youtube.com/@fernampersand) |
+| 💻 | **Projects and Fun Stuff** | [youtube.com/@fernampersand](https://youtube.com/@fernampersand) |
 | 📬 | **Let's Connect**       | fernandangeloorbase@gmail.com       |
 | 🍃 | **Fun Fact**            | I Touch Grass 🌾                    |
 
