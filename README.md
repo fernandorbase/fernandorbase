@@ -56,7 +56,7 @@
   <img src="https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/m365_48x1.svg" alt="Microsoft 365" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
   <img src="https://i.logos-download.com/114435/32685-s1280-703a6749304400b22efec4dbcabe6fbb.avif/Google_Antigravity_Logo_2025_icon-s1280.avif" alt="Google Antigravity" width="40" height="40"/>
-  <img src="https://i.logos-download.com/114435/32685-s1280-703a6749304400b22efec4dbcabe6fbb.avif/Google_Antigravity_Logo_2025_icon-s1280.avif" alt="Gemini CLI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/geminicli-color.png" alt="Gemini CLI" width="40" height="40"/>
 </p>
 
 ---
